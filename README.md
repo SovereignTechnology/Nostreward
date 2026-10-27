@@ -15,7 +15,7 @@ Accepts valid redeem codes and rewards users with automatic zaps, note reposts, 
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/SovITservices/Nostreward.git
+git clone https://github.com/SovereignTechnology/Nostreward.git
 cd Nostreward
 ```
 
